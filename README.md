@@ -29,9 +29,9 @@ This project analyzes a financial loan dataset to provide data-driven insights i
 - Wrote region and term-specific aggregations to drive Power BI visuals
 
 ## Dashboard Preview
-![Dashboard Screenshot](images/Power_BI_Details_Screenshot.png)
-![Dashboard Screenshot](images/Power_BI_Overview_Screenshot.png)
-![Dashboard Screenshot](images/Power_BI_Summary_Screenshot.png)
+![Dashboard Screenshot](Power_BI_Details_Screenshot.png)
+![Dashboard Screenshot](Power_BI_Overview_Screenshot.png)
+![Dashboard Screenshot](Power_BI_Summary_Screenshot.png)
 
 
 ## Files Included
