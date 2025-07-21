@@ -28,10 +28,18 @@ This project analyzes a financial loan dataset to provide data-driven insights i
 - Created MoM comparisons using `MONTH(issue_date)` logic
 - Wrote region and term-specific aggregations to drive Power BI visuals
 
-## Dashboard Preview
-![Dashboard Screenshot](Power_BI_Details_Screenshot.png)
-![Dashboard Screenshot](Power_BI_Overview_Screenshot.png)
-![Dashboard Screenshot](Power_BI_Summary_Screenshot.png)
+## Power BI Dashboard Preview
+### 1. Details Page
+Provides a comprehensive view of each loan, showing borrower details, loan amount, repayment progress, and financial metrics.
+![Details Dashboard](dashboard_details.png)
+
+### 2. Summary Page
+Displays key KPIs such as total applications, funded amounts, and loan health (good vs bad loans) with filters and MTD breakdowns.
+![Summary Dashboard](dashboard_summary.png)
+
+### 3. Overview Page
+Visualizes trends by month, region, loan purpose, term length, and borrower employment status using charts and maps.
+![Overview Dashboard](dashboard_overview.png)
 
 
 ## Files Included
