@@ -28,6 +28,12 @@ This project analyzes a financial loan dataset to provide data-driven insights i
 - Created MoM comparisons using `MONTH(issue_date)` logic
 - Wrote region and term-specific aggregations to drive Power BI visuals
 
+## Dashboard Preview
+![Dashboard Screenshot](images/Power_BI_Details_Screenshot.png)
+![Dashboard Screenshot](images/Power_BI_Overview_Screenshot.png)
+![Dashboard Screenshot](images/Power_BI_Summary_Screenshot.png)
+
+
 ## Files Included
 - `Bank Loan Visualization.pbix` – Complete Power BI file
 - `SQL Queries.sql` – All raw queries used
